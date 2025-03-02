@@ -1,4 +1,4 @@
-# DisableTurboBoost
+# Disable Turbo Boost
 
 Scripts to disable Intel Turbo Boost on Windows, reducing CPU heat and power usage by modifying registry settings and power configurations. Ideal for users prioritizing stability over peak performance.
 
