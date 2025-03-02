@@ -1,0 +1,13 @@
+# Windows temporary files
+*.tmp
+*.bak
+
+# PowerShell temporary files
+*.ps1_*
+
+# Registry backups
+*.reg
+
+# IDE or editor files
+.vscode/
+.idea/
